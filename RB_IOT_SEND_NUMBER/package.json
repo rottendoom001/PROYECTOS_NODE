@@ -1,0 +1,25 @@
+{
+  "name": "rb-iot-send-number",
+  "description": "Send a numbre to LEDs with a Raspberry",
+  "version": "1.0.0",
+  "author": "Alan Cruz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rottendoom001/PROYECTOS_NODE.git"
+  },
+  "engines": {
+    "node": ">=4.3"
+  },
+  "private": true,
+  "dependencies": {
+    "aws-iot-device-sdk": "2.2.0",
+    "onoff": "^1.1.9",
+    "rpi-gpio": "0.9.1"
+  },
+  "devDependencies": {}
+}

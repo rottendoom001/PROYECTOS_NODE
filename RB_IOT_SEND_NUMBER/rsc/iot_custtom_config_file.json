@@ -1,0 +1,7 @@
+{
+	"keyPath": "/home/pi/CRTS/private.pem.key",
+	"certPath": "/home/pi/CRTS/certificate.pem.crt",
+	"caPath": "/home/pi/CRTS/root-CA.crt",
+	"clientId": "AlanRaspBerryPI",
+	"host": "a9drlxrlrnaln.iot.eu-west-2.amazonaws.com"
+}

@@ -1,0 +1,7 @@
+{
+   "keyPath": "/Users/alancruz/Desktop/CRTS/IOT_MAC/private.pem.key",
+  "certPath": "/Users/alancruz/Desktop/CRTS/IOT_MAC/certificate.pem.crt",
+    "caPath": "/Users/alancruz/Desktop/CRTS/IOT_MAC/root-CA.crt",
+  "clientId": "alan-mac",
+      "host": "a9drlxrlrnaln.iot.eu-west-2.amazonaws.com"
+}
