@@ -1,0 +1,8 @@
+{
+  "privateKey" : "/Users/alancruz/Desktop/CRTS/IOT_GC_MAC/rsa_private.pem",
+  "deviceId" :"macAlan",
+  "projectId" : "smarthouseam-200817",
+  "cloudRegion" : "us-central1",
+  "registryId" : "SmartHouseAM",
+  "mqttTopic" : "/devices/macAlan/events"
+}
